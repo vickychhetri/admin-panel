@@ -1,0 +1,27 @@
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active {
+    background-color: #4433ff !important;
+    border-color: #4433ff !important; }
+.form-control{
+    -webkit-appearance: auto;
+    -moz-appearance: auto;
+    appearance: auto;
+}
+.iti{
+    display: block;
+}
+.form-group span{
+    color: #FF0000;
+}
+
+.swal-text{
+    color: #000000;
+    font-size: 20px;
+}
+.swal-button:hover{
+    background-color: #4433ff;
+}
+.f1 .f1-steps .f1-step .f1-step-icon:hover{
+    background-color: #4433ff;
+    color: #fff;
+    transition: .3s;
+}
